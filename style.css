@@ -1,19 +1,19 @@
 body {
   margin: 0;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Verdana, Arial, sans-serif;
 	background-image:url(images/unsplash.jpg);
 }
 
 header {
 	height: 140px;
-	background-color: #403933;
+	background-color: #104F55;
 	background-image:url(images/starry_sky.jpeg);
 }
 
 .logo {
-  font-family: 'Nanum Pen Script', cursive;
+  font-family: 'Courier new', cursive;
   font-size: 72px;
-  color: #c5c0b8;
+  color: #32746D;
   text-align: center;
   letter-spacing: -3;
   margin: 0;
@@ -29,7 +29,7 @@ header h2 {
 }
 
 footer {
-	background-color: #403933;
+	background-color: #104F55;
 	background-image:url(images/starry_sky.jpeg);
 
 }
