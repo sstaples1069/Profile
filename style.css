@@ -86,9 +86,16 @@ img {
   border-radius: 8px;
   border: 1px solid #c5c0b8;
   text-align: center;
-} 
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 69%;
+}
 
 .border-top {
   padding-top: 80px;
-  border-top: 2px solid #403933;
+  border-top: 2px solid #6EFAFB;
 }
