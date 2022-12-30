@@ -1,3 +1,21 @@
+h1, h2, h3 {
+  font-family: verdana, sans-serif;
+	color: #46ACC2;
+  text-align: center;
+  font-weight: 500;
+}
+
+h1 { font-size: 28px; }
+h2 { font-size: 26px; }
+h3 { font-size: 18px; }
+
+p, li {
+ color: #42F2F7;
+ font-family: verdana, sans-serif;
+ line-height: 1.5em;
+ margin-bottom: 0;
+}
+
 body {
   margin: 0;
   font-family: Verdana, Arial, sans-serif;
@@ -39,26 +57,6 @@ section {
   margin: 80px 0;
 }
 
-/* -------  Type ------- */
-
-h1, h2, h3 {
-  font-family: 'Montserrat Alternates', sans-serif;
-	color: #46ACC2;
-  text-align: center;
-  font-weight: 500;
-}
-
-h1 { font-size: 28px; }
-h2 { font-size: 26px; }
-h3 { font-size: 18px; }
-
-p, li {
- color: #42F2F7;
- font-family: 'Montserrat', sans-serif;
- line-height: 1.5em;
- margin-bottom: 0;
-}
-
 a {
 	font-weight: 700;
 	text-decoration: none;	
@@ -83,15 +81,11 @@ footer p {
   margin: 0;
 }
 
-/* -------  Elements ------- */
-
-img, iframe { 
+img { 
   width: 100%;	
   border-radius: 8px;
   border: 1px solid #c5c0b8;
 } 
-
-/* -------  Modifier styles ------- */
 
 .border-top {
   padding-top: 80px;
