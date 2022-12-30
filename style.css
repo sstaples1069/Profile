@@ -7,7 +7,7 @@ body {
 header {
 	height: 140px;
 	background-color: #403933;
-	background-image:url(images/starry sky.jpg);
+	background-image:url(images/starry sky.jpeg);
 }
 
 .logo {
@@ -30,7 +30,7 @@ header h2 {
 
 footer {
 	background-color: #403933;
-	background-image:url(images/starry sky.jpg);
+	background-image:url(images/starry sky.jpeg);
 
 }
 
