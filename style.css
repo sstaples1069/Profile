@@ -1,13 +1,13 @@
 body {
   margin: 0;
   font-family: Helvetica, Arial, sans-serif;
-	background-image:url(images/backgrounds/subtle_white_mini_waves.png);
+	background-image:url(images/unsplash.jpg);
 }
 
 header {
 	height: 140px;
 	background-color: #403933;
-	background-image:url(images/backgrounds/subtle_brown_mini_waves.png);
+	background-image:url(images/starry sky.jpg);
 }
 
 .logo {
@@ -30,7 +30,7 @@ header h2 {
 
 footer {
 	background-color: #403933;
-	background-image:url(images/backgrounds/subtle_brown_mini_waves.png);
+	background-image:url(images/starry sky.jpg);
 
 }
 
