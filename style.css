@@ -1,15 +1,17 @@
 h1, h2 {
   font-family: verdana, sans-serif;
-	color: #FFFBFC;
+  color: #FFFBFC;
   text-align: center;
   font-weight: 500;
+  background-color: #303030;
 }
 
 h3 {
   font-family: verdana, sans-serif;
-	color: #FFFBFC;
+  color: #FFFBFC;
   text-align: left;
   font-weight: 500;
+  background-color: #303030;
 }
 
 h1 { font-size: 28px; }
@@ -21,6 +23,7 @@ p, li {
  font-family: verdana, sans-serif;
  line-height: 1.5em;
  margin-bottom: 0;
+ background-color: #303030;
 }
 
 body {
