@@ -1,13 +1,13 @@
 h1, h2 {
   font-family: verdana, sans-serif;
-	color: #CDEAEA;
+	color: #FFFBFC;
   text-align: center;
   font-weight: 500;
 }
 
 h3 {
   font-family: verdana, sans-serif;
-	color: #CDEAEA;
+	color: #FFFBFC;
   text-align: left;
   font-weight: 500;
 }
@@ -47,7 +47,7 @@ header {
 
 header h2 {
 	font-family: 'Montserrat', serif;
-	color: #46ACC2;
+	color: #FFFBFC;
 	margin: 0px;
 	font-size: 18px;
 	text-align: center;
