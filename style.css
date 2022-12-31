@@ -69,14 +69,14 @@ section {
 
 a {
 	font-weight: 700;
-	text-decoration: none;	
+	text-decoration: none;
+	background-color: #303030;
 }
 a:link { color: #00BFFF; }
 a:visited { color: #7678ED; }
 a:hover { color: #F18701; }
 a:active { color: #F18701; }
-a:hover {
-	text-decoration: underline;	
+a:hover {text-decoration: underline;	
 }
 
 em {
