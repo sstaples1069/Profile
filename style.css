@@ -81,11 +81,9 @@ a {
 a:link { color: #00BFFF; }
 a:visited { color: #7678ED; }
 a:hover { color: #F18701; 
-	text-decoration: underline;
+	  text-decoration: underline;
 	}
 a:active { color: #F18701; }
-a:hover {	
-}
 
 em {
   font-weight: bold;
