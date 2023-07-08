@@ -18,6 +18,7 @@ h1 { font-size: 28px; }
 h2 { font-size: 26px; }
 h3 { font-size: 18px; }
 
+/*create div container with singular background*/
 div {
 	background-color: #104F55;
 }
@@ -76,11 +77,14 @@ a {
 	text-decoration: none;
 	background-color: #303030;
 }
+/*condense a:hover to 1 object*/
 a:link { color: #00BFFF; }
 a:visited { color: #7678ED; }
-a:hover { color: #F18701; }
+a:hover { color: #F18701; 
+	text-decoration: underline;
+	}
 a:active { color: #F18701; }
-a:hover {text-decoration: underline;	
+a:hover {	
 }
 
 em {
@@ -109,6 +113,7 @@ img {
   width: 69%;
 }
 
+/*could also use a horizontal break instead of creating a border line*/
 .border-top {
   padding-top: 8px;
   border-top: 2px solid #6EFAFB;
